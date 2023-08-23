@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-23T18:10:10 IST" name="Default suite" finished-at="2023-08-23T18:10:28 IST" duration-ms="17137">
+  <suite started-at="2023-08-23T20:35:38 IST" name="Default suite" finished-at="2023-08-23T20:35:55 IST" duration-ms="17201">
     <groups>
+      <group name="sanity">
+        <method signature="VerifyDemoQaAlerts.VerifyPromptAlert4()[pri:-1, instance:TestCases.VerifyDemoQaAlerts@2b662a77]" name="VerifyPromptAlert4" class="TestCases.VerifyDemoQaAlerts"/>
+      </group> <!-- sanity -->
     </groups>
-    <test started-at="2023-08-23T18:10:10 IST" name="Default test" finished-at="2023-08-23T18:10:28 IST" duration-ms="17137">
-      <class name="TestCases.VerifyNavigation">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.VerifyNavigation@77847718]" started-at="2023-08-23T18:10:10 IST" name="Setup" finished-at="2023-08-23T18:10:22 IST" duration-ms="11951" status="PASS">
+    <test started-at="2023-08-23T20:35:38 IST" name="Default test" finished-at="2023-08-23T20:35:55 IST" duration-ms="17201">
+      <class name="TestCases.VerifyDemoQaAlerts">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.VerifyDemoQaAlerts@2b662a77]" started-at="2023-08-23T20:35:38 IST" name="Setup" finished-at="2023-08-23T20:35:55 IST" duration-ms="16483" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifyNavigations()[pri:0, instance:TestCases.VerifyNavigation@77847718]" started-at="2023-08-23T18:10:22 IST" name="verifyNavigations" finished-at="2023-08-23T18:10:27 IST" duration-ms="4693" status="PASS">
+        <test-method signature="VerifyPromptAlert4()[pri:-1, instance:TestCases.VerifyDemoQaAlerts@2b662a77]" started-at="2023-08-23T20:35:55 IST" name="VerifyPromptAlert4" finished-at="2023-08-23T20:35:55 IST" duration-ms="191" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyNavigations -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyNavigation@77847718]" started-at="2023-08-23T18:10:27 IST" name="tearDown" finished-at="2023-08-23T18:10:28 IST" duration-ms="412" status="PASS">
+        </test-method> <!-- VerifyPromptAlert4 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyDemoQaAlerts@2b662a77]" started-at="2023-08-23T20:35:55 IST" name="tearDown" finished-at="2023-08-23T20:35:55 IST" duration-ms="448" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyNavigations status=SUCCESS method=VerifyNavigation.verifyNavigations()[pri:0, instance:TestCases.VerifyNavigation@77847718] output={null}]]]>
+                <![CDATA[[TestResult name=VerifyPromptAlert4 status=SUCCESS method=VerifyDemoQaAlerts.VerifyPromptAlert4()[pri:-1, instance:TestCases.VerifyDemoQaAlerts@2b662a77] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- TestCases.VerifyNavigation -->
+      </class> <!-- TestCases.VerifyDemoQaAlerts -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

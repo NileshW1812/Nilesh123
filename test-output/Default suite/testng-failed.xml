@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestCases.VerifyNavigation">
+      <class name="TestCases.VerifyDemoQaAlerts">
         <methods>
-          <include name="verifyNavigations"/>
+          <include name="VerifyPromptAlert4"/>
           <include name="Setup"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- TestCases.VerifyNavigation -->
+      </class> <!-- TestCases.VerifyDemoQaAlerts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
