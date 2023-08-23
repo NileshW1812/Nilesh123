@@ -1,0 +1,227 @@
+[INFO ] 2023-08-05 11:21:43.426 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-05 11:21:49.225 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-05 11:21:54.757 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-05 11:21:54.774 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-05 11:21:54.951 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-05 11:21:55.235 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-05 11:21:55.311 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:10:02.282 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:10:10.783 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:10:16.496 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:10:16.543 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:10:16.937 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:10:17.244 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:10:17.320 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:15:10.537 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:15:16.327 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:15:21.956 [TestNG-test=Test-4] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:15:21.987 [TestNG-test=Test-2] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[INFO ] 2023-08-08 18:15:22.389 [TestNG-test=Test-1] VerifyFilghtAnhorTag_c1 - flight url opned
+[ERROR] 2023-08-08 18:15:22.412 [TestNG-test=Test-3] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:15:22.435 [TestNG-test=Test-4] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:17:28.006 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:17:35.470 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:17:41.905 [TestNG-test=Test-4] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:17:41.923 [TestNG-test=Test-2] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[INFO ] 2023-08-08 18:17:42.543 [TestNG-test=Test-1] VerifyFilghtAnhorTag_c1 - flight url opned
+[ERROR] 2023-08-08 18:17:42.640 [TestNG-test=Test-3] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:17:42.652 [TestNG-test=Test-4] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:23:46.510 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:23:52.380 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:23:56.258 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:23:56.294 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:23:57.383 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:23:57.618 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:23:57.716 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:26:37.518 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:26:44.213 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:26:49.523 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:26:49.545 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:26:49.719 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:26:49.958 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:26:50.047 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:28:28.877 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:28:34.471 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:28:39.913 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:28:39.939 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:28:40.549 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:28:41.228 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:28:41.311 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:47:15.941 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:47:21.395 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:47:55.760 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:48:01.176 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:49:06.491 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:49:13.409 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:51:56.714 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:52:05.290 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:53:10.957 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:53:17.229 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:54:15.999 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:54:23.022 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:54:30.857 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:54:30.914 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:54:31.306 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:54:31.593 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:54:31.678 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:56:29.818 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:56:35.867 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:56:43.382 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:56:43.408 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:56:43.724 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:56:44.183 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:56:44.321 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:57:27.117 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:57:32.323 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:57:39.399 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:57:39.430 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:57:39.828 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:57:40.270 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:57:40.342 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 18:59:17.814 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 18:59:24.855 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 18:59:33.338 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 18:59:33.366 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 18:59:33.620 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 18:59:33.864 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 18:59:33.935 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 19:00:42.008 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:01:05.659 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:01:10.202 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:04:40.519 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:04:44.861 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:05:11.180 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:05:15.726 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:05:22.615 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 19:05:22.639 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 19:05:22.863 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 19:05:23.083 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 19:05:23.170 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 19:36:53.788 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:36:59.608 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:37:05.905 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 19:37:05.933 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 19:37:06.140 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 19:37:06.473 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 19:37:06.538 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 19:37:46.229 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:37:51.772 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:37:58.128 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 19:37:58.146 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 19:37:58.291 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 19:37:58.491 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 19:37:58.598 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 19:52:53.933 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:53:28.044 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:54:00.583 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 19:54:00.604 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 19:54:00.942 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 19:54:01.316 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 19:54:01.402 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 19:55:32.847 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 19:55:38.538 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 19:55:44.599 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 19:55:44.626 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 19:55:44.902 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 19:55:45.290 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 19:55:45.397 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-08 20:43:30.954 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 20:43:36.611 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 20:43:55.921 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 20:44:00.289 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 20:44:23.177 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-08 20:44:28.248 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-08 20:44:34.653 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-08 20:44:34.694 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-08 20:44:35.106 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-08 20:44:35.397 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-08 20:44:35.462 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 18:59:22.182 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 18:59:31.820 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 18:59:48.416 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 18:59:48.430 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 18:59:48.595 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 18:59:48.913 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 18:59:48.986 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 19:07:01.149 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 19:07:07.223 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 19:07:22.923 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 19:07:22.939 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 19:07:23.088 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 19:07:23.390 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 19:07:23.465 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 19:13:43.206 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 19:13:50.672 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 19:14:07.415 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 19:14:07.432 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 19:14:07.629 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 19:14:07.886 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 19:14:07.966 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 19:20:46.698 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 19:20:54.550 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 19:21:09.954 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 19:21:09.969 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 19:21:10.140 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 19:21:10.412 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 19:21:10.513 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:20:37.896 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:20:44.195 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:21:00.518 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:21:00.535 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:21:00.739 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:21:01.044 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:21:01.148 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:24:08.737 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:24:16.011 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:24:32.177 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:24:32.195 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:24:32.370 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:24:32.622 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:24:32.699 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:28:33.021 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:28:38.892 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:28:53.192 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:28:53.209 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:28:53.398 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:28:53.628 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:28:53.727 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:31:27.711 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:31:33.431 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:31:49.333 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:31:49.352 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:31:49.519 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:31:49.784 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:31:49.864 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:33:10.758 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:33:17.343 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:33:33.888 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:33:33.901 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:33:34.048 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:33:34.207 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:33:34.276 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:35:33.170 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:35:38.110 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:35:54.779 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:35:54.794 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:35:54.943 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:35:55.185 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:35:55.260 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:39:27.348 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:39:36.321 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:39:53.443 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:39:53.474 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:39:54.074 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:39:54.263 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:39:54.383 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-09 22:43:49.785 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-09 22:43:55.573 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-09 22:44:10.303 [main] VerifyFilghtAnhorTag_c1 - flight url opned
+[INFO ] 2023-08-09 22:44:10.317 [main] VerifyFilghtAnhorTag_c1 - driver switch to radio button
+[ERROR] 2023-08-09 22:44:10.475 [main] VerifyFilghtAnhorTag_c1 - elemnt is no clickable
+[INFO ] 2023-08-09 22:44:10.752 [main] VerifyFilghtAnhorTag_c1 - Verify to text entring
+[INFO ] 2023-08-09 22:44:10.842 [main] VerifyFilghtAnhorTag_c1 - user able to enter the text
+[INFO ] 2023-08-17 11:34:29.915 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-18 12:03:57.013 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-22 17:45:13.226 [main] VerifyFilghtAnhorTag_c1 - ready driver launch url
+[INFO ] 2023-08-22 17:45:28.912 [main] VerifyFilghtAnhorTag_c1 - url opned
+[INFO ] 2023-08-22 17:46:47.949 [TestNG-test=Test-2] VerifyFilghtAnhorTag_c1 - driver switch to radio button
